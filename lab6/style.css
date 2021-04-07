@@ -1,0 +1,19 @@
+.main{
+    margin-left: 350px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    height: 30px;
+    text-align: center;
+
+}
+
+.login{
+    margin-left: 350px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    height: 30px;
+    text-align: center;
+    background-color: rgb(158, 222, 247);
+    color: rgb(255, 255, 255);
+    width: 175px;
+}
